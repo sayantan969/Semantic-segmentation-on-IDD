@@ -1,2 +1,2 @@
 File contains semantic segmentation of Indian Driving Dataset .
-We have use pytorch as framework .
+We have used pytorch as framework .
